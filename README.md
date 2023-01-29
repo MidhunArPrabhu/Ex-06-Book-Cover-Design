@@ -112,7 +112,7 @@ Write HTML and CSS Code for desiging book cover page and excute them.
                 <hr style="color: red;">
             </div>
             <div class="booktitle">
-                <h1>RESPONSIVE WEB DESIGM WITH HTML5 AND CSS</h1></div>
+                <h1>RESPONSIVE WEB DESIGN WITH HTML5 AND CSS</h1></div>
             <div class="subtitle">
                 Develop future-proof responsive websites using the latest HTML5 and CSS Techniques
             </div>
@@ -138,7 +138,8 @@ Write HTML and CSS Code for desiging book cover page and excute them.
 ```
 
 ## OUTPUT :
-![midzcoverop](https://user-images.githubusercontent.com/118054670/214636306-80c2426c-4cc6-49d1-b8e2-9b2bd7604334.png)
+
+ ![Screenshot (77)](https://user-images.githubusercontent.com/118054670/215338286-04ff4d10-5bf8-4bd3-a960-920b051c4e2f.png)
 
 ## RESULT :
 
